@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT8MKniK63+uajeVEkEYVg0oJLSmOM/2REHqutt4vRUODugPcVRdmbitU+U1SxJqoCQbXY4D/72Xj7yHeNayog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\csron\\source\\repos\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\csron\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\csron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\csron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

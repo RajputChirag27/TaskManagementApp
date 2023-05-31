@@ -1,0 +1,17 @@
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\net6.0-windows\TaskManagementApp.exe
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\net6.0-windows\TaskManagementApp.deps.json
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\net6.0-windows\TaskManagementApp.runtimeconfig.json
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\net6.0-windows\TaskManagementApp.dll
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\net6.0-windows\TaskManagementApp.pdb
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.csproj.AssemblyReference.cache
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.MainForm.resources
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.csproj.GenerateResource.cache
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.AssemblyInfoInputs.cache
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.AssemblyInfo.cs
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.dll
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\refint\TaskManagementApp.dll
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.pdb
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\TaskManagementApp.genruntimeconfig.cache
+C:\Users\csron\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\net6.0-windows\ref\TaskManagementApp.dll
